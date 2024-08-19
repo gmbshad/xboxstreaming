@@ -4,7 +4,7 @@ av==8.0.3
 PySDL2==0.9.7
 
 # Dev
-pip==20.2.3
+pip==23.3
 setuptools==50.3.0
 bump2version==1.0.1
 wheel==0.35.1
