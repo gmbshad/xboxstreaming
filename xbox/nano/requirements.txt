@@ -5,7 +5,7 @@ PySDL2==0.9.7
 
 # Dev
 pip==20.2.3
-setuptools==50.3.0
+setuptools==70.0.0
 bump2version==1.0.1
 wheel==0.35.1
 watchdog==0.10.3
